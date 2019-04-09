@@ -16,7 +16,7 @@ lower = \relative c' {
   \time 2/4
 
   r | r | r | r
-   c8(a g4)| c8(a g4)| g8( a b g | c2) 
+   c8(a g4)| b8(a g4)| g8( a b g | c2) 
 }
 
 \score {
